@@ -9,5 +9,5 @@ Hello! I'm Matt Fishman, Associate Data Scientist at the Center for Computationa
 - I primarily code in Julia and C++ (more in Julia lately).
 - I am interesting in writing simple to use and high performance code.
 - I am most excited about my recent work in applying tools like automatic differentiation, multithreading, and interactive visualization to improve tensor network software and algorithms.
-- I am interested in learning more about applying other high performance computing (HPC) computing techniques like GPUs and distributed computing to improve tensor network software.
+- I am interested in learning more about applying other high performance computing (HPC) techniques like GPUs and distributed computing to improve tensor network software.
 - Check out my repositories and reach out with any questions you have or if you are interested in contributing to the ITensor ecosystem!
