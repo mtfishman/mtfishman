@@ -1,6 +1,6 @@
 ### Hi 👋
 
-Hello! I'm Matt Fishman, Associate Data Scientist at the Center for Computational Quantum Physics (CCQ), Flatiron Institute, New York. Lead developer of [@ITensor](https://github.com/ITensor).
+Hello! I'm Matt Fishman, Associate Data Scientist at the Center for Computational Quantum Physics (CCQ), Flatiron Institute, New York. Lead developer of [@ITensor](https://github.com/ITensor). Find out more on my [personal page](https://mtfishman.github.io/).
 
 * I received my Ph.D. from Caltech in the Spring of 2018. My thesis was on the development of tensor network algorithms.
 * I am currently the lead developer of ITensor (co-developed with [@emstoudenmire](https://github.com/emstoudenmire)), a leading tensor network software library with applications to quantum physics, quantum computing, machine learning and chemistry.
